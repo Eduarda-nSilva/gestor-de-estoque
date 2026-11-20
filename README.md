@@ -24,11 +24,11 @@ Este projeto nasceu de um trabalho da faculdade que pedia um gerenciador de esto
 ### Passos
 1. Clone o repositório:
    ```
-   git clone [ ] URL-do-repositório
+   git clone https://github.com/Eduarda-nSilva/gestor-de-estoque
    ```
 2. Entre na pasta:
    ```
-   cd Gestor_estoque
+   cd gestor-de-estoque
    ```
 3. Execute:
    ```
